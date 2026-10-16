@@ -102,6 +102,7 @@ fun FormDataDiri(modifier: Modifier = Modifier) {
                 alamat = textAlamat
             }
         ) {
+            Text(text = "Submit")
         }
 
         Divider(
